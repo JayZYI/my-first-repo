@@ -1,0 +1,4 @@
+vcs itu semacam penghubung antara 2/lebih(?) programmer dalam melakukan coding lebih cepat 
+dimana jika programmer ingin meng-update file codingan langsung open tanpa harus terma/kirim 
+melalui Email
+
